@@ -1,0 +1,97 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "users": [
+    {
+      "id": 1,
+      "nom": "RAKOTOARIMANANA",
+      "prenoms": "Manana Jean",
+      "date": "30/12/2002",
+      "lieu": "Antananarivo",
+      "num": "110012023252"
+    },
+    {
+      "id": 2,
+      "nom": "RAKOTOARIMANANA",
+      "prenoms": "Manana Jean",
+      "date": "30/12/2002",
+      "lieu": "Antananarivo",
+      "num": "110012023252"
+    },
+    {
+      "nom": "",
+      "prenom": "",
+      "dateNaiss": "",
+      "lieuNaiss": "",
+      "profession": "",
+      "domicile": "",
+      "arrondissement": "",
+      "numCin": "",
+      "lieuDeliv": "",
+      "dateDeliv": "",
+      "nomPere": "",
+      "nomMere": "",
+      "id": 3
+    },
+    {
+      "nom": "RANDRIANOELINA",
+      "prenom": "Liantsoa",
+      "dateNaiss": "2024-01-01",
+      "lieuNaiss": "Ambatolampy",
+      "profession": "Etudiante",
+      "domicile": "Antsobolo",
+      "arrondissement": "Ambatolampy",
+      "numCin": "1",
+      "lieuDeliv": "Antananarivo",
+      "dateDeliv": "2024-01-03",
+      "nomPere": "RANDRIANOELINA Hery",
+      "nomMere": "RAKOTONDRASOA Zoela Harimisa",
+      "id": 4
+    },
+    {
+      "nom": "Rasoa",
+      "prenom": "Kely",
+      "dateNaiss": "2020-01-01",
+      "lieuNaiss": "Ambatolampy",
+      "profession": "Etudiante",
+      "domicile": "Antsobolo",
+      "arrondissement": "Ambatolampy",
+      "numCin": "3",
+      "lieuDeliv": "Antananarivo",
+      "dateDeliv": "2017-01-01",
+      "nomPere": "RAKOTO",
+      "nomMere": "RAZAFY",
+      "id": 5
+    },
+    {
+      "nom": "RAZAFY",
+      "prenom": "aa",
+      "dateNaiss": "2003-10-01",
+      "lieuNaiss": "Antsobolo",
+      "profession": "Etudiante",
+      "domicile": "Antsobolo",
+      "arrondissement": "TANA",
+      "numCin": "51",
+      "lieuDeliv": "Antananarivo",
+      "dateDeliv": "2022-12-31",
+      "nomPere": "RAKOTO",
+      "nomMere": "RAZAFY",
+      "id": 6
+    }
+  ]
+}
